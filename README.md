@@ -75,6 +75,8 @@ To create a Simple Storage Service (S3) in AWS and to launch an EC2 instance in 
 
 # Output
 
+<img width="1917" height="990" alt="image" src="https://github.com/user-attachments/assets/f665eb9f-1dcd-4db4-aed1-9463e537afa2" />
+<img width="1916" height="992" alt="image" src="https://github.com/user-attachments/assets/35c648f1-4b22-4959-a394-ac360079cc99" />
 
 
 ---
