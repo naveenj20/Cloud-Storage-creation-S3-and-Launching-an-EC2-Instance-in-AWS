@@ -78,6 +78,21 @@ To create a Simple Storage Service (S3) in AWS and to launch an EC2 instance in 
 <img width="1917" height="990" alt="image" src="https://github.com/user-attachments/assets/f665eb9f-1dcd-4db4-aed1-9463e537afa2" />
 <img width="1916" height="992" alt="image" src="https://github.com/user-attachments/assets/35c648f1-4b22-4959-a394-ac360079cc99" />
 
+<img width="1917" height="988" alt="image" src="https://github.com/user-attachments/assets/1117e733-92ed-4b7e-930a-20b452eb6df3" />
+<img width="1917" height="988" alt="image" src="https://github.com/user-attachments/assets/0085e6d4-5589-450e-b65d-5862edd9178f" />
+
+<img width="1917" height="992" alt="image" src="https://github.com/user-attachments/assets/b5bcf79b-a323-4636-b73c-12032bc4c1e6" />
+<img width="1917" height="972" alt="image" src="https://github.com/user-attachments/assets/90217836-2a1c-4b41-a199-270a29abec61" />
+
+<img width="1917" height="992" alt="image" src="https://github.com/user-attachments/assets/69e81d11-7f21-47ab-a4d4-b29ee09741f3" />
+
+<img width="1917" height="997" alt="image" src="https://github.com/user-attachments/assets/cf967233-723d-47c4-848f-0e394787e30b" />
+<img width="1917" height="985" alt="image" src="https://github.com/user-attachments/assets/2cc5ac4c-d2bb-4e2b-acdf-c2e75bc9551d" />
+<img width="1917" height="985" alt="image" src="https://github.com/user-attachments/assets/cc154599-3a54-49ef-b9ca-c8e1770a92e6" />
+<img width="1917" height="991" alt="image" src="https://github.com/user-attachments/assets/ff50feb3-b194-4f3c-b18c-e6004735b933" />
+<img width="1917" height="992" alt="image" src="https://github.com/user-attachments/assets/8aca6c88-d34e-484b-b214-06b935d1792e" />
+<img width="1267" height="195" alt="image" src="https://github.com/user-attachments/assets/501cf803-4774-4d2b-9787-d946ca1942d2" />
+
 
 ---
 
